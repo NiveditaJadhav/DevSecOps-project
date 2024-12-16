@@ -1,4 +1,4 @@
-# DevSecOps-project-
+# DevSecOps-project
 Objective:
 To implement a DevSecOps pipeline that integrates security practices throughout the software development lifecycle (SDLC), ensuring streamlined and automated security across multiple environments.
 
